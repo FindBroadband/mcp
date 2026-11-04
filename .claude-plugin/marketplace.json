@@ -1,0 +1,51 @@
+{
+  "name": "findbroadband",
+  "owner": {
+    "name": "FindBroadband",
+    "email": "hello@findbroadbanddeals.com",
+    "url": "https://www.findbroadbanddeals.com"
+  },
+  "metadata": {
+    "description": "FindBroadband's UK broadband apps for AI assistants: deals at your address and an internet outage checker."
+  },
+  "plugins": [
+    {
+      "name": "findbroadband-deals",
+      "source": "./plugins/findbroadband-deals",
+      "description": "Compare the UK broadband deals available at an exact address, priced on their true whole-contract cost, and check whether a bill or renewal quote is too high.",
+      "version": "1.0.0",
+      "author": {
+        "name": "FindBroadband",
+        "email": "hello@findbroadbanddeals.com",
+        "url": "https://www.findbroadbanddeals.com"
+      },
+      "homepage": "https://www.findbroadbanddeals.com/ai-assistants",
+      "keywords": [
+        "broadband",
+        "deals",
+        "uk",
+        "compare",
+        "internet"
+      ]
+    },
+    {
+      "name": "internet-outage-checker",
+      "source": "./plugins/internet-outage-checker",
+      "description": "Check whether a UK broadband provider is down and where, plus its outages over the last 30 days.",
+      "version": "1.0.0",
+      "author": {
+        "name": "FindBroadband",
+        "email": "hello@findbroadbanddeals.com",
+        "url": "https://www.findbroadbanddeals.com"
+      },
+      "homepage": "https://www.findbroadbanddeals.com/ai-assistants",
+      "keywords": [
+        "broadband",
+        "outage",
+        "internet down",
+        "uk",
+        "status"
+      ]
+    }
+  ]
+}
