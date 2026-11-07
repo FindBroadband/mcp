@@ -84,6 +84,10 @@ The deals app receives the postcode or address and the filters you ask about. Th
 
 Email hello@findbroadbanddeals.com or use the [contact page](https://www.findbroadbanddeals.com/contact).
 
+## Use of the servers
+
+The servers are for personal, non-commercial use: a person asking their own AI assistant about their own broadband. You must not use them, or any data they return, to build or run a commercial service. That includes comparison, deals or price-tracking sites, apps, feeds or chatbots, your own affiliate or referral links to deals or prices found through them, reselling, republishing or bulk-copying the data, training AI models on it, or querying them automatically in bulk. For commercial use, email hello@findbroadbanddeals.com about a licence. Full terms: section 8 of FindBroadband's [terms](https://www.findbroadbanddeals.com/terms).
+
 ## Licence
 
-The manifests and docs in this repo are MIT licensed. Use of the hosted servers is covered by FindBroadband's [terms](https://www.findbroadbanddeals.com/terms).
+The manifests and docs in this repo are MIT licensed. The MIT licence covers these files only, not the hosted servers or their data, which are covered by FindBroadband's [terms](https://www.findbroadbanddeals.com/terms).

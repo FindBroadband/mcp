@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "findbroadband-deals",
+  "version": "1.0.0",
+  "description": "The broadband deals available at your exact UK address, priced on their true whole-contract cost, and whether your bill or renewal quote is too high.",
+  "author": {
+    "name": "FindBroadband",
+    "url": "https://www.findbroadbanddeals.com"
+  },
+  "homepage": "https://www.findbroadbanddeals.com/ai-assistants",
+  "repository": "https://github.com/FindBroadband/mcp",
+  "license": "MIT",
+  "keywords": ["broadband", "deals", "uk", "full fibre", "price comparison", "mcp"],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "findbroadband": { "trust": "untrusted" }
+      }
+    }
+  }
+}

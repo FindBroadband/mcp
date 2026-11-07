@@ -1,0 +1,7 @@
+{
+  "id": "internet-outage-checker",
+  "name": "Internet Outage Checker by FindBroadband",
+  "description": "Check whether a UK broadband provider is down and where, plus its outages over the last 30 days.",
+  "version": "1.0.0",
+  "icon": "https://www.findbroadbanddeals.com/icon-512.png"
+}
